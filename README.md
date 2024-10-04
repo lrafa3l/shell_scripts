@@ -20,7 +20,7 @@ chmod +x script_name.sh
 ## Scripts
 Here's a list of some of the scripts included in this repository:
 
-- password_generator.sh: Generates random passwords.
+- pass_gen.sh: Generates random passwords.
 - backup.sh: Creates backups of specified directories.
 - cleanup.sh: Cleans up temporary files from a directory.
 - disk_usage.sh: Displays disk usage in a human-readable format.
